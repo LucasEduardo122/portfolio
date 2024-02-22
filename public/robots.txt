@@ -1,0 +1,3 @@
+User-Agent: *
+
+Sitemap: https://cloudlector.xyz/sitemap.xml
