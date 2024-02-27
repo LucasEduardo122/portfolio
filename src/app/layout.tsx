@@ -19,6 +19,7 @@ export const metadata: Metadata = {
     }
   ],
   robots: { index: true, follow: true },
+  verification: { google: 'yqtD96IkEqJePfcR5Wp0LdpM4j68u37dYpaJqbFrY0s'},
   creator: "Lucas Eduardo",
   referrer: "origin-when-cross-origin",
   publisher: "Lucas Eduardo",
