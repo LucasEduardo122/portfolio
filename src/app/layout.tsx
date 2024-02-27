@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "cloudlector.xyz",
-  description: "Sou programador back-end e gosto de criar projetos incríveis. Estou sempre procurando expandir meus conhecimentos e adquirir novas habilidades para tornar meu trabalho mais eficiente.",
+  description: "Meu nome é Lucas Eduardo, sou programador back-end e gosto de criar projetos incríveis. Estou sempre procurando expandir meus conhecimentos e adquirir novas habilidades para tornar meu trabalho mais eficiente.",
   authors: [{ name: "Lucas Eduardo", url: "https://cloudlector.xyz" }],
   icons: [
     {
