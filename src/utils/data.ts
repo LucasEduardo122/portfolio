@@ -95,6 +95,12 @@ export const data = [
                 "image": "https://raw.githubusercontent.com/LucasEduardo122/portfolio/second/assets/imgs/disneyplus.png",
                 "description": "Um mini clone do disney plus",
                 "url": "https://mini-clone-disney-plus-next.vercel.app/"
+            }, 
+            {
+                "name": "Expert Notes",
+                "image": "https://raw.githubusercontent.com/LucasEduardo122/expert-notes/main/.github/screen.png",
+                "description": "Um projeto para criar notas",
+                "url": "https://expert-notes-three-chi.vercel.app/"
             }
         ]
     },
