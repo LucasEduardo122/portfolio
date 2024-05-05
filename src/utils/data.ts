@@ -101,6 +101,13 @@ export const data = [
                 "image": "https://raw.githubusercontent.com/LucasEduardo122/expert-notes/main/.github/screen.png",
                 "description": "Um projeto para criar notas",
                 "url": "https://expert-notes-three-chi.vercel.app/"
+            }, 
+
+            {
+                "name": "Image Description Gemini",
+                "image": "https://raw.githubusercontent.com/LucasEduardo122/ImageDescriptionGemini/main/.github/gemini.png",
+                "description": "Um projeto de descrição de imagem utilizando Next.JS, API do Gemini e TailwindCSS",
+                "url": "https://image-description-gemini.vercel.app/"
             }
         ]
     },
@@ -151,6 +158,12 @@ export const data = [
                 "name": "Tally",
                 "type": "Serviços",
                 "url": "https://tally.so/"
+            },
+
+            {
+                "name": "Nomad",
+                "type": "Serviços",
+                "url": "https://nomad.onelink.me/wIQT/ConviteNomad"
             }
         ]
     },

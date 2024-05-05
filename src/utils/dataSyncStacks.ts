@@ -6,6 +6,7 @@ import spotify from "../assets/imgs/stacks/spotify.webp"
 import vscode from "../assets/imgs/stacks/vscode.webp"
 import tally from "../assets/imgs/stacks/tally.webp"
 import edge from "../assets/imgs/stacks/edge.webp"
+import nomad from "../assets/imgs/stacks/nomad.jpg"
 
 export const dataSyncStacks: any = {
     Postgresql() {
@@ -38,5 +39,9 @@ export const dataSyncStacks: any = {
 
     Edge() {
         return edge;
+    },
+
+    Nomad() {
+        return nomad;
     }
 } 
