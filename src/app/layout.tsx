@@ -65,7 +65,6 @@ export default function RootLayout({
         <script async src="https://tally.so/widgets/embed.js"></script>
         {children}
         <Footer />
-        <script type="text/javascript" async src="https://d335luupugsy2.cloudfront.net/js/loader-scripts/df552123-cd3a-458a-9c81-4c25c248e079-loader.js" ></script>
       </body>
     </html>
   );
