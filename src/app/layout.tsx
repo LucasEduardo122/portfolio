@@ -34,7 +34,7 @@ export default function RootLayout({
   children: React.ReactNode;
 }>) {
   return (
-    <html lang="en" className="dark" style={{ colorScheme: "dark" }}>
+    <html lang="pt-BR" className="dark" style={{ colorScheme: "dark" }}>
       <Head>
       <script
             dangerouslySetInnerHTML={{
