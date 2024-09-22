@@ -115,6 +115,13 @@ export const data = [
                 "image": "https://etiquetas.safeparksinalizacao.com/img/Page\ login\ safe.jpg",
                 "description": "Um sistema de emissão de etiquetas conectado ao sistema ERP omie",
                 "url": "https://etiquetas.safeparksinalizacao.com"
+            }, 
+
+            {
+                "name": "Safe Park E-commerce (Tray)",
+                "image": "https://cdn.cloudlector.xyz/portfolio/safe.png",
+                "description": "Tema Safe Park Sinalização para o e-commerce na Tray",
+                "url": "https://safeparksinalizacao.com"
             }
         ]
     },
