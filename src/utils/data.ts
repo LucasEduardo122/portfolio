@@ -119,7 +119,7 @@ export const data = [
 
             {
                 "name": "Safe Park E-commerce (Tray)",
-                "image": "https://cdn.cloudlector.xyz/portfolio/safe.png",
+                "image": "https://cloudlector.xyz/portfolio/safe.png",
                 "description": "Tema Safe Park Sinalização para o e-commerce na Tray",
                 "url": "https://safeparksinalizacao.com"
             }
