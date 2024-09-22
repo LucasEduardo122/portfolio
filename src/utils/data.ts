@@ -108,6 +108,13 @@ export const data = [
                 "image": "https://raw.githubusercontent.com/LucasEduardo122/ImageDescriptionGemini/main/.github/gemini.png",
                 "description": "Um projeto de descrição de imagem utilizando Next.JS, API do Gemini e TailwindCSS",
                 "url": "https://image-description-gemini.vercel.app/"
+            }, 
+            
+            {
+                "name": "Safe Park Etiquetas",
+                "image": "https://etiquetas.safeparksinalizacao.com/img/Page\ login\ safe.jpg",
+                "description": "Um sistema de emissão de etiquetas conectado ao sistema ERP omie",
+                "url": "https://etiquetas.safeparksinalizacao.com"
             }
         ]
     },
