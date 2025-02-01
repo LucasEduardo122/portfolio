@@ -122,7 +122,14 @@ export const data = [
                 "image": "https://cloudlector.xyz/portfolio/safe.png",
                 "description": "Tema Safe Park Sinalização para o e-commerce na Tray",
                 "url": "https://safeparksinalizacao.com"
-            }
+            },
+
+            {
+                "name": "Sistema de Pesagem Safe Park",
+                "image": "https://cloudlector.xyz/portfolio/comercial.png",
+                "description": "Sistema de pesagem de produtos de um negócio no pipedrive",
+                "url": "https://comercial.safeparksinalizacao.com"
+            },
         ]
     },
     {
@@ -178,6 +185,60 @@ export const data = [
                 "name": "Nomad",
                 "type": "Serviços",
                 "url": "https://nomad.onelink.me/wIQT/ConviteNomad"
+            },
+
+            {
+                "name": "Discord",
+                "type": "Comunicação",
+                "url": "http://discord.com/"
+            },
+
+            {
+                "name": "LaravelPHP",
+                "type": "Framework",
+                "url": "https://laravel.com/"
+            },
+
+            {
+                "name": "NodeJS",
+                "type": "Outros",
+                "url": "https://nodejs.org/pt"
+            },
+
+            {
+                "name": "NextJS",
+                "type": "Framework",
+                "url": "https://nextjs.org/"
+            },
+
+            {
+                "name": "NestJS",
+                "type": "Framework",
+                "url": "https://nestjs.com/"
+            },
+
+            {
+                "name": "Docker",
+                "type": "Conteinerização",
+                "url": "https://www.docker.com/"
+            },
+
+            {
+                "name": "TailwindCss",
+                "type": "Biblioteca",
+                "url": "https://tailwindcss.com/"
+            },
+
+            {
+                "name": "Bootstrap",
+                "type": "Biblioteca",
+                "url": "https://getbootstrap.com/"
+            },
+
+            {
+                "name": "Github",
+                "type": "Versionamento",
+                "url": "https://github.com/"
             }
         ]
     },
