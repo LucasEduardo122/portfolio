@@ -25,7 +25,7 @@ export default function Home() {
                   </a>
                 </span>
                 <span className="absolute left-0 top-1/2 flex h-2 w-2 -translate-y-1/2 pl-1"><span className="absolute inline-flex h-full w-full animate-ping rounded-full pl-1 opacity-75 
-                  bg-gray-500"></span><span className="relative inline-flex h-2 w-2 rounded-full pl-2 bg-gray-500"></span></span>
+                  bg-green-500"></span><span className="relative inline-flex h-2 w-2 rounded-full pl-2 bg-green-500"></span></span>
               </h3>
               <div className="flex flex-col w-full gap-4 md:flex-row lg:flex-row mt-2">
                 <button className="inline-flex justify-center whitespace-nowrap font-medium focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 bg-primary text-primary-foreground shadow hover:bg-primary/90 h-9 items-center gap-1 rounded-full p-5 text-base hover:scale-105 hover:shadow-xl transition duration-300 ease-in-out">
