@@ -19,12 +19,6 @@ export const data = [
                 "url": "https://poke-next-olive.vercel.app/"
             },
             {
-                "name": "Discard",
-                "image": "https://raw.githubusercontent.com/LucasEduardo122/portfolio/second/assets/imgs/discard.png",
-                "description": "Discard é uma plataforma que permite ver informações simples de usuários discord.",
-                "url": "https://discard-sigma.vercel.app/"
-            },
-            {
                 "name": "Lofi Sounds",
                 "image": "https://raw.githubusercontent.com/LucasEduardo122/portfolio/second/assets/imgs/lofi-sounds.png",
                 "description": "Escute sons lo-fi para jogos ou estudo com a possibilidade de sons de ambiente.",
@@ -61,12 +55,6 @@ export const data = [
                 "url": "https://lucaseduardo122.github.io/agenda-de-contatos-pesquisa/"
             },
             {
-                "name": "Forum Zita",
-                "image": "https://raw.githubusercontent.com/LucasEduardo122/portfolio/second/assets/imgs/forumzita.png",
-                "description": "Um forum de discussão e feedback da zitabot",
-                "url": "https://forumzita.cloudlector.xyz/"
-            },
-            {
                 "name": "Bloco de Carnaval",
                 "image": "https://github.com/LucasEduardo122/template-bloco-carnaval/raw/main/.github/preview.jpg",
                 "description": "Um site que 'mostra' se na sua cidade terá bloco de carnaval",
@@ -85,12 +73,6 @@ export const data = [
                 "url": "https://portoflio-3-d.vercel.app/"
             },
             {
-                "name": "Spotify Mini Clone",
-                "image": "https://raw.githubusercontent.com/LucasEduardo122/portfolio/second/assets/imgs/spotify-mini-clone.png",
-                "description": "Um mini clone do spotify",
-                "url": "https://mini-spotify-tailwind.vercel.app/"
-            },
-            {
                 "name": "Clone Disney Plus",
                 "image": "https://raw.githubusercontent.com/LucasEduardo122/portfolio/second/assets/imgs/disneyplus.png",
                 "description": "Um mini clone do disney plus",
@@ -101,14 +83,7 @@ export const data = [
                 "image": "https://raw.githubusercontent.com/LucasEduardo122/expert-notes/main/.github/screen.png",
                 "description": "Um projeto para criar notas",
                 "url": "https://expert-notes-three-chi.vercel.app/"
-            }, 
-
-            {
-                "name": "Image Description Gemini",
-                "image": "https://raw.githubusercontent.com/LucasEduardo122/ImageDescriptionGemini/main/.github/gemini.png",
-                "description": "Um projeto de descrição de imagem utilizando Next.JS, API do Gemini e TailwindCSS",
-                "url": "https://image-description-gemini.vercel.app/"
-            }, 
+            },
             
             {
                 "name": "Safe Park Etiquetas",
